@@ -9,7 +9,7 @@ read about the [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format).
 - The **bmp_gray.c** program converts any BMP file to grayscale
 - And the **main.c** program inspect and shows details like size, rgb array pixels and size of an image. all can be extended
 
-#How to use
+# How to use
 
 - First of all build and compile the file you want to run.
  e.g
